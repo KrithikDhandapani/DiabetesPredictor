@@ -71,8 +71,7 @@ The project was designed as a self-learning exercise to practice:
   - Model accuracy metrics  
   - Input form for patient data  
   - Prediction result with *"Diabetic"* or *"Not Diabetic"*  
-
-*(Insert screenshots here if available)*  
+ 
 
 ---
 
