@@ -79,7 +79,7 @@ The project was designed as a self-learning exercise to practice:
 
 - **Practical ML Application** – Shows how machine learning can support healthcare predictions  
 - **End-to-End Development** – From raw data to live, interactive app  
-- **Hiring Manager Friendly** – Demonstrates data science, machine learning, and deployment skills in one project  
+- **Clarity and simplicity** – Demonstrates data science, machine learning, and deployment skills in one project  
 
 ---
 
